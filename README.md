@@ -8,23 +8,6 @@
 | **Driver nct6687** | Habilita sensores y control PWM de ventiladores |
 | **Variables de entorno** | Configura optimizaciones de RADV para gaming |
 
----
-
-## Requisitos previos
-
-Antes de correr este script, asegúrate de haber completado la instalación base:
-
-```bash
-git clone https://github.com/eabarriosTGC/BC250--ARCH.git
-cd BC250--ARCH
-chmod +x install.sh
-./install.sh
-```
-
-El script de eabarriosTGC instala:
-- Kernel 6.6 LTS parcheado para BC250
-- Mesa 24.3 con drivers RADV optimizados
-- Configuración base del sistema
 
 ---
 
