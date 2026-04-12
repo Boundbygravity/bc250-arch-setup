@@ -1,10 +1,5 @@
 # AMD BC250 — Arch Linux Post-Install Setup
 
-> Script de configuración para AMD BC250 en Arch Linux.  
-> Usar **después** del script base de [eabarriosTGC](https://github.com/eabarriosTGC/BC250--ARCH).
-
----
-
 ## ¿Qué hace este script?
 
 | Componente | Descripción |
